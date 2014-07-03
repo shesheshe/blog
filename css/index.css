@@ -12,11 +12,12 @@ div#nav {
 }
 
 div#nav ul {
-	float: right;
+	float: left;
 	display: inline-block;
 }
 
 div#nav ul li {
-  left: 50%;
-  margin:0px 10px 0px 0px;
+	float: left;
+	left: 50%;
+	margin:0px 10px 0px 0px;
 }
