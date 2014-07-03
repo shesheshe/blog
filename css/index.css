@@ -17,6 +17,6 @@ div#nav ul {
 }
 
 div#nav ul li {
-  float:left;
+  left: 50%;
   margin:0px 10px 0px 0px;
 }
