@@ -1,0 +1,22 @@
+div#menu div {
+	height: 30px;
+	left: 50%;
+}
+
+div#menu p {
+	left: 50%;
+}
+
+div#nav {
+	text-align: center;
+}
+
+div#nav ul {
+	float: right;
+	display: inline-block;
+}
+
+div#nav ul li {
+  float:left;
+  margin:0px 10px 0px 0px;
+}
